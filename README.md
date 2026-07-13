@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahendar Dev</h1>
+<h1 align="center">Hi 👋, This is Mahendar Dev</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Software+Developer;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
@@ -16,8 +16,9 @@
 
 - 🔭 Currently working on cool projects
 - 🌱 Always learning new technologies
+- 🛡️ Cyber Security Practitioner
 - 💬 Ask me about anything tech related
-- 📫 Reach me at **your_email@example.com**
+- 📫 Reach me at **mahendardev.111@gmail.com**
 
 ---
 
