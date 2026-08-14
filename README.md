@@ -18,7 +18,6 @@
 - 🌱 Always learning new technologies
 - 🛡️ Cyber Security Practitioner
 - 💬 Ask me about anything tech related
-- 📫 Reach me at **mahendardev.111@gmail.com**
 
 ---
 
