@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Mahendar Dev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cyber+Security+Practitioner;Always+Learning+New+Things;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cyber+Security+Practitioner;Ethical+Hacker;Exploit+Developer;Web+3.0;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
