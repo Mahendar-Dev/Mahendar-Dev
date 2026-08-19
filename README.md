@@ -23,19 +23,12 @@
 
 ```yaml
 whoami:
-  role: "Cyber Security Practitioner | Ethical Hacker | Exploit Developer"
-  focus: ["Offensive Security", "Web3 Security", "Red Teaming", "Reverse Engineering"]
-  currently_working_on: "Open-source security tooling & CTF write-ups"
-  currently_learning: ["Advanced Binary Exploitation", "Cloud Security", "Smart Contract Auditing"]
-  fun_fact: "I break things to understand how to build them safer."
+- 👨‍💻 Role: "Cyber Security Practitioner | Ethical Hacker | Exploit Developer"
+- 🛡️ Focus: "Offensive Security", "Web3 Security", "Red Teaming", "Reverse Engineering"
+- ⚙️ Currently_Working_On: "Open-source security tooling & CTF write-ups"
+- 📚 Currently_Learning: "Advanced Binary Exploitation", "Cloud Security", "Smart Contract Auditing"
+- 🔬 Fun_Fact: "I break things to understand how to build them safer."
 ```
-
-- 🔭 Currently working on offensive-security tooling & automation scripts
-- 🌱 Deep-diving into binary exploitation, cloud security, and smart contract auditing
-- 🛡️ Practitioner across Red Team, Blue Team, and Web3 security
-- 🤝 Open to collaborating on open-source security projects & CTF challenges
-- 💬 Ask me about pentesting, exploit dev, OSINT, or Web3 security
-- ⚡ Fun fact: my terminal has seen more action than my desktop
 
 ---
 
