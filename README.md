@@ -32,14 +32,6 @@ whoami:
   currently_working_on: "Open-source security tooling & CTF write-ups"
   currently_learning: ["Advanced Binary Exploitation", "Cloud Security", "Smart Contract Auditing"]
   fun_fact: "I break things to understand how to build them safer."
-```
-
-- 🔭 Currently working on offensive-security tooling & automation scripts
-- 🌱 Deep-diving into binary exploitation, cloud security, and smart contract auditing
-- 🛡️ Practitioner across Red Team, Blue Team, and Web3 security
-- 🤝 Open to collaborating on open-source security projects & CTF challenges
-- 💬 Ask me about pentesting, exploit dev, OSINT, or Web3 security
-- ⚡ Fun fact: my terminal has seen more action than my desktop
 
 ---
 
