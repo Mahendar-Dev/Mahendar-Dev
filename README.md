@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E60000&height=200&section=header&text=Mahendar%20Dev&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Practitioner%20%7C%20Ethical%20Hacker&descAlignY=55&descSize=18" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, This is Mahendar Dev</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cyber+Security+Practitioner;Ethical+Hacker+%7C+Pentester;Exploit+Developer;Red+Team+%7C+Blue+Team;Web+3.0+Security+Researcher;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Cyber+Security+Practitioner;Ethical+Hacker;Exploit+Developer;Web+3.0+Security+Researcher;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,12 +27,19 @@
 
 ```yaml
 whoami:
-- 👨‍💻 Role: "Cyber Security Practitioner | Ethical Hacker | Exploit Developer"
-- 🛡️ Focus: "Offensive Security", "Web3 Security", "Red Teaming", "Reverse Engineering"
-- ⚙️ Currently_Working_On: "Open-source security tooling & CTF write-ups"
-- 📚 Currently_Learning: "Advanced Binary Exploitation", "Cloud Security", "Smart Contract Auditing"
-- 🔬 Fun_Fact: "I break things to understand how to build them safer."
+  role: "Cyber Security Practitioner | Ethical Hacker | Exploit Developer"
+  focus: ["Offensive Security", "Web3 Security", "Red Teaming", "Reverse Engineering"]
+  currently_working_on: "Open-source security tooling & CTF write-ups"
+  currently_learning: ["Advanced Binary Exploitation", "Cloud Security", "Smart Contract Auditing"]
+  fun_fact: "I break things to understand how to build them safer."
 ```
+
+- 🔭 Currently working on offensive-security tooling & automation scripts
+- 🌱 Deep-diving into binary exploitation, cloud security, and smart contract auditing
+- 🛡️ Practitioner across Red Team, Blue Team, and Web3 security
+- 🤝 Open to collaborating on open-source security projects & CTF challenges
+- 💬 Ask me about pentesting, exploit dev, OSINT, or Web3 security
+- ⚡ Fun fact: my terminal has seen more action than my desktop
 
 ---
 
