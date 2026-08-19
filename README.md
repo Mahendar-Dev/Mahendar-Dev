@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=Mahendar+Dev;%5BSYSTEM+COMPROMISED%5D;%5BROOT+ACCESS+GRANTED%5D;Apex+Security+Engineer" alt="Glitch Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=Mahendar+Dev;%5BSYSTEM+COMPROMISED%5D" alt="Glitch Banner" />
 </p>
 
 ```
-root@mahendar:~# ./initialize_system.sh --override-safeties
-[ OK ] Booting Core Modules...
-[ OK ] Loading Exploitation Framework...
-[ OK ] Initiating Recon & Automation Pipeline...
-[ OK ] Establishing Secure Comms...
-root@mahendar:~# whoami
+root@mahendardev:~# ./initialize_system.sh --override-safeties
+[ ✓ ] Loading Exploitation Frameworks.....
+[ ✓ ] Initiating Recon & Automation Pipeline.....
+[ ✓ ] Establishing Secure Commands.....
+root@mahendardev:~# whoami
 Cyber Security Practitioner, Ethical Hacker & Exploit Developer
 ```
 
@@ -24,19 +23,18 @@ Cyber Security Practitioner, Ethical Hacker & Exploit Developer
 </p>
 
 ---
+🌐 Socials:
+<p align="left"> <a href="https://www.linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter-here"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a> <a href="https://tryhackme.com/p/your-thm-here"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=red" /></a> <a href="https://www.hackthebox.com/home/users/profile/your-htb-id"><img src="https://img.shields.io/badge/HackTheBox-9FEF00.svg?logo=hackthebox&logoColor=black" /></a> <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" /></a> </p>
 
-## 📡 SECURE COMM LINKS 📡
+🛠 Knowledge & Skills
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-here"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/your-thm-here"><img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Encrypted_Email-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41" /></a>
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/C-00599C.svg?style=plastic&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Html5-E34F26.svg?style=plastic&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bash_Script-121011.svg?style=plastic&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=plastic&logo=powershell&logoColor=white" /> </p> <p align="left"> <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00.svg?style=plastic&logo=burp-suite&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-4682B4.svg?style=plastic&logo=nmap&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-000000.svg?style=plastic&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/SQLmap-FFD700.svg?style=plastic&logo=sqlite&logoColor=black" /> <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=plastic&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Ghidra-FF0000.svg?style=plastic&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=plastic&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Parrot%20OS-00FF00.svg?style=plastic&logo=linux&logoColor=black" /> </p> <p align="left"> <img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=plastic&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-E95420.svg?style=plastic&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032.svg?style=plastic&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" /> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=14&duration=1000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D" />
-</p>
+📊 GitHub Stats:
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahendar-Dev&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendar-Dev&layout=compact&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendar-Dev&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Mahendar-Dev&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" /> </p>
+
+🔝 Top Contributed Repo
+<p align="center"> <img src="https://github-contributor-stats.vercel.app/api?username=Mahendar-Dev&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true" /> </p>
 
 ## ☠️ THE ARSENAL (Core Capabilities) ☠️
 
