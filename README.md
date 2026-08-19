@@ -32,6 +32,7 @@ whoami:
   currently_working_on: "Open-source security tooling & CTF write-ups"
   currently_learning: ["Advanced Binary Exploitation", "Cloud Security", "Smart Contract Auditing"]
   fun_fact: "I break things to understand how to build them safer."
+```
 
 ---
 
