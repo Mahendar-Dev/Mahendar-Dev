@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hello.gif" width="30" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&height=60&color=00FF41&background=00000000&lines=Welcome+To+Profile;I'm+Mahendar+Dev%3B+Exploit+Developer;Ethical+Hacker" alt="Typing SVG" />
-</p>
+</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&height=60&color=00FF41&background=00000000&lines=%5B+Welcome+To+Profile+%5D;%5B+I'm+Mahendar+Dev+%5D%3B+Exploit+Developer;%5B+Ethical+Hacker+%5D;%5B+Expect+The+Unexpected+%5D" alt="Typing SVG" /> </p>
 
-## Hi there 👋
+## Hello there 👋
 
 I'm **Mahendar**, a Cyber Security Practitioner, Ethical Hacker, and Exploit Developer with a strong interest in web and network penetration testing, vulnerability research, and reconnaissance automation.
 
@@ -18,7 +16,7 @@ With hands-on experience across **red teaming**, **automation tooling**, and **e
 
 **💫 More About Me:**
 
-- **Name:** Mahendar
+- **Name:** Mahendar Dev
 - **Role:** Cyber Security Practitioner | Ethical Hacker | Exploit Developer
 - **Focus:** Web3 Security, Red Teaming, Reverse Engineering
 
