@@ -2,14 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=Mahendar+Dev;%5BSYSTEM+COMPROMISED%5D" alt="Glitch Banner" />
 </p>
 
-```
-root@mahendardev:~# ./initialize_system.sh --override-safeties
-[ ✓ ] Loading Exploitation Frameworks.....
-[ ✓ ] Initiating Recon & Automation Pipeline.....
-[ ✓ ] Establishing Secure Comms.....
-root@mahendardev:~# whoami
-Cyber Security Practitioner, Ethical Hacker & Exploit Developer
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/terminal-boot.svg" alt="Terminal Boot Sequence" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&weight=700&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Web+%26+Network+Penetration+Testing%3B+Exploit+Development+%26+Vulnerability+Research%3B+Red+Team+Ops+%26+Recon+Automation%3B+Web3+%2F+Smart+Contract+Security" alt="Terminal Typing Effect" />
