@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=Mahendar+Dev;%5BSYSTEM+COMPROMISED%5D" alt="Glitch Banner" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=1000&height=200&lines=%5Mahendar+Dev%5;%5BSYSTEM+COMPROMISED%5D" alt="Glitch Banner" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/terminal-boot.svg" alt="Terminal Boot Sequence" />
+<p align="left">
+root@mahendardev:~# ./initialize_system.sh --override-safeties
+[ ✓ ] Loading Exploitation Frameworks.....
+[ ✓ ] Initiating Recon & Automation Pipeline.....
+[ ✓ ] Establishing Secure Comms.....
+root@mahendardev:~# whoami
+Cyber Security Practitioner, Ethical Hacker & Exploit Developer
 </p>
 
 <p align="center">
