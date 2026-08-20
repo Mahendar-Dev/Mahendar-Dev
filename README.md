@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hello.gif" width="30" />
-</p>
+---
 
 </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&height=60&color=00FF41&background=00000000&lines=%5B+Welcome+To+Profile+%5D;%5B+I'm+Mahendar+Dev+%5D%3B+Exploit+Developer;%5B+Ethical+Hacker+%5D;%5B+Expect+The+Unexpected+%5D" alt="Typing SVG" /> </p>
 
