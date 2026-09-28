@@ -134,7 +134,7 @@ I secure AI agents against misuse, unauthorized actions, and manipulation, makin
 
 ---
 
-**"Talk is cheap. Show me the code."**
+**"Talk is cheap. Show me the skill that you have."**
 
 🌱
 
