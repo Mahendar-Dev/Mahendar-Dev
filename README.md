@@ -1,12 +1,14 @@
-</p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=600&height=60&color=00FF41&background=00000000&lines=%5B+Welcome+To+Profile+%5D;%5B+This+is+Mahendar+Dev!+%5D;%5B+Junior+Penetration+Tester+%5D;%5B+Expect+The+Unexpected+%5D" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=700&height=60&color=00FF41&background=00000000&lines=%5B+Welcome+To+Profile+%5D;%5B+This+is+Mahendar+Dev!+%5D;%5B+Build+%E2%80%94+Test+%E2%80%94+Secure+%5D;%5B+Expect+The+Unexpected+%5D" alt="Typing SVG" />
+</p>
 
 ## Hello there 👋
 
 I'm **Mahendar**, a Cyber Security Practitioner, Ethical Hacker, and Exploit Developer with a strong interest in web and network penetration testing, vulnerability research, and reconnaissance automation.
 
-I focus on **offensive security**, **exploit development**, and **Web3 security**, building tools and sharpening practical skills through CTFs, labs, and open-source contributions — aiming to bridge the gap between security theory and real-world application.
+I focus on **offensive security**, **exploit development**, and **Web3 security**, and I'm now expanding into **AI red teaming** and **AI agent development and security**. I build tools and sharpen practical skills through CTFs, labs, and open-source contributions, aiming to bridge the gap between security theory and real-world application.
 
-With hands-on experience across **red teaming**, **automation tooling**, and **exploit development**, I'm always working to deepen my understanding of how systems actually break, and how to defend them.
+I'm always working to deepen my understanding of how systems actually break, and how to defend them.
 
 ---
 
@@ -14,15 +16,29 @@ With hands-on experience across **red teaming**, **automation tooling**, and **e
 
 - **Name:** Mahendar Dev
 - **Role:** Cyber Security Practitioner | Ethical Hacker | Exploit Developer
-- **Focus:** Web3 Security, Red Teaming, Reverse Engineering
+- **Focus:** Web3 Security, Red Teaming, AI Security, Reverse Engineering
+- **Location:** Karachi, Pakistan
 
 **Specialties:**
 
-- Web Application Security — OWASP Top 10, API Pentesting
+- Web Application Security: OWASP Top 10, API Pentesting
 - Network & Infrastructure Penetration Testing
 - Exploit Development & Vulnerability Research
 - Reconnaissance Automation & Tooling
 - Web3 / Smart Contract Security
+- AI Red Teaming: prompt injection, jailbreaks, data leakage testing
+- AI Agent Development & Agentic System Security
+
+---
+
+## 🛠️ Services
+
+| Service | What I do |
+|---|---|
+| 🔐 **Cybersecurity & Vulnerability Assessment** | Find weaknesses in websites, applications, and systems before attackers do, with clear reports and practical fixes |
+| 🤖 **AI Red Teaming** | Stress-test AI models and chatbots against prompt injection, jailbreaks, and data leakage |
+| ⚙️ **AI Agent Development** | Build custom AI agents, from simple single-task assistants to multi-step agents that use your tools and data |
+| 🛡️ **Agentic System Security** | Secure AI agents against misuse, unauthorized actions, and manipulation |
 
 ---
 
@@ -30,18 +46,15 @@ With hands-on experience across **red teaming**, **automation tooling**, and **e
 
 | | |
 |---|---|
-| 🛠 Practicing web, network, and API penetration testing on labs & CTFs<br>🔍 Building custom recon and automation scripts for pentesting workflows<br>📚 Studying exploit development and vulnerability research<br>🌐 Exploring Web3 and smart contract security<br>🤝 Contributing to open-source security tooling | ![Status GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) |
+| 🛠 Practicing web, network, and API penetration testing on labs & CTFs<br>🤖 Learning to build simple AI agents for businesses<br>🧪 Exploring AI red teaming and LLM security<br>🔍 Building custom recon and automation scripts for pentesting workflows<br>📚 Studying exploit development and vulnerability research<br>🌐 Exploring Web3 and smart contract security | ![Status GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif) |
 
 ---
 
 ## 🌐 Socials:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter-here"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/your-thm-here"><img src="https://img.shields.io/badge/TryHackMe-212C42.svg?logo=tryhackme&logoColor=red" /></a>
-  <a href="https://www.hackthebox.com/home/users/profile/your-htb-id"><img src="https://img.shields.io/badge/HackTheBox-9FEF00.svg?logo=hackthebox&logoColor=black" /></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mdev111/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mahendardev.111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -54,6 +67,7 @@ With hands-on experience across **red teaming**, **automation tooling**, and **e
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=plastic&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/JavaScript-323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Html5-E34F26.svg?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash_Script-121011.svg?style=plastic&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=plastic&logo=powershell&logoColor=white" />
@@ -78,6 +92,16 @@ With hands-on experience across **red teaming**, **automation tooling**, and **e
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Projects
+
+- [**AEGIS**](https://github.com/Mahendar-Dev/AEGIS-Serverless-Disaster-Response-System-Using-AWS): Serverless disaster response system using AWS
+- [**Sentinel-Network-IDS**](https://github.com/Mahendar-Dev/Sentinel-Network-IDS): Network intrusion detection
+- [**FireResponse-DAA**](https://github.com/Mahendar-Dev/FireResponse-DAA): Python project
+- [**Attestly**](https://github.com/Mahendar-Dev/Attestly-Degree-Attestation-Chain): Degree attestation chain
+- [**University DBMS + DSA**](https://github.com/Mahendar-Dev/university-dbms-dsa-project): Java project
 
 ---
 
@@ -111,4 +135,8 @@ With hands-on experience across **red teaming**, **automation tooling**, and **e
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahendar-Dev&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <sub>⚠️ All security testing is done only on systems I own, on legal practice labs, or with written authorization.</sub>
 </p>
