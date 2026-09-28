@@ -31,14 +31,25 @@ I'm always working to deepen my understanding of how systems actually break, and
 
 ---
 
-## 🛠️ Services
+## 🛠️ Services by Mahendar Dev
 
-| Service | What I do |
-|---|---|
-| 🔐 **Cybersecurity & Vulnerability Assessment** | Find weaknesses in websites, applications, and systems before attackers do, with clear reports and practical fixes |
-| 🤖 **AI Red Teaming** | Stress-test AI models and chatbots against prompt injection, jailbreaks, and data leakage |
-| ⚙️ **AI Agent Development** | Build custom AI agents, from simple single-task assistants to multi-step agents that use your tools and data |
-| 🛡️ **Agentic System Security** | Secure AI agents against misuse, unauthorized actions, and manipulation |
+I help businesses build, test, and secure their digital systems, with a focus on the intersection of cybersecurity and AI.
+
+### 1. Cybersecurity & Vulnerability Assessment
+
+I examine your websites, applications, and systems for security weaknesses before attackers find them, and deliver a clear report with practical steps to fix each issue.
+
+### 2. AI Red Teaming
+
+I stress-test AI models and chatbots against real attack techniques such as prompt injection, jailbreaks, and data leakage, so you know how your AI behaves under pressure before your customers do.
+
+### 3. AI Agent Development
+
+I design and build custom AI agents for businesses and individuals, from simple single-task assistants (like customer support or FAQ bots) to multi-step agents that work with your tools and data.
+
+### 4. Agentic System Security
+
+I secure AI agents against misuse, unauthorized actions, and manipulation, making sure your automation stays safe and does only what it is meant to do.
 
 ---
 
