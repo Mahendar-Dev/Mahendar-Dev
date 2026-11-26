@@ -1,4 +1,4 @@
-# [Your Name]
+# Mahendar Dev
 
 Cyber security undergraduate interested in understanding how applications break, how vulnerabilities can be exploited, and how systems can be made more secure.
 
@@ -23,8 +23,6 @@ Alongside application security, I'm increasingly interested in AI security, part
 ## Currently Learning
 
 Exploring the intersection of traditional application security and AI security, with a particular interest in understanding how emerging AI systems introduce new attack surfaces.
-
----
 
 Always curious about systems, their weaknesses, and the assumptions that make them vulnerable.
 
