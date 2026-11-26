@@ -1,6 +1,6 @@
 # Mahendar Dev
 
-Cyber security undergraduate interested in understanding how applications break, how vulnerabilities can be exploited, and how systems can be made more secure.
+Cyber security practitioner interested in understanding how applications break, how vulnerabilities can be exploited, and how systems can be made more secure.
 
 Currently focused on web and application security, penetration testing, and vulnerability research. I spend my time exploring application attack surfaces, investigating security weaknesses, and practicing responsible vulnerability disclosure.
 
@@ -50,8 +50,6 @@ Always curious about systems, their weaknesses, and the assumptions that make th
 ![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
 
 ## 📊 GitHub Stats
-
-<div align="center">
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Mahendar-Dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9&count_private=true)](https://github.com/Mahendar-Dev)
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Mahendar-Dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8)](https://github.com/Mahendar-Dev)
