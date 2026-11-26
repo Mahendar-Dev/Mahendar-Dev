@@ -1,75 +1,32 @@
-<div align="center">
+# [Your Name]
 
-![Mahendar Dev](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/header.svg)
+Cyber security undergraduate interested in understanding how applications break, how vulnerabilities can be exploited, and how systems can be made more secure.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=800&lines=Web+%26+Network+Penetration+Testing;Vulnerability+Research+%7C+Recon+Automation;AI+Red+Teaming+%26+Agentic+AI+Security;Web3+%26+Smart+Contract+Security)](https://github.com/Mahendar-Dev)
+Currently focused on web and application security, penetration testing, and vulnerability research. I spend my time exploring application attack surfaces, investigating security weaknesses, and practicing responsible vulnerability disclosure.
 
-![Location](https://img.shields.io/badge/Location-Karachi%2C_Pakistan-0d1117?style=for-the-badge&labelColor=ff2e2e&color=0d1117)
-![Focus](https://img.shields.io/badge/Focus-Offensive_Security-0d1117?style=for-the-badge&labelColor=00c853&color=0d1117)
-![AI](https://img.shields.io/badge/Also-AI_Security-0d1117?style=for-the-badge&labelColor=ff2e2e&color=0d1117)
+Alongside application security, I'm increasingly interested in AI security, particularly AI red teaming, LLM vulnerabilities, and security challenges in agent-based systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/1mahendardev)
+## What I am working on
 
-</div>
+- **Web & Application Security**  
+  Exploring web application vulnerabilities, authentication and authorization flaws, business logic issues, injection attacks, and access control weaknesses.
 
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
+- **Bug Bounty & Vulnerability Research**  
+  Practicing hands-on security testing, investigating real-world attack scenarios, and responsibly reporting vulnerabilities to respective owners.
 
-## 👤 About
+- **AI Red Teaming**  
+  Exploring prompt injection, LLM security, AI agent attack surfaces, MCP integrations, and vulnerabilities in AI-powered workflows.
 
-I'm **Mahendar Dev**, a cyber security practitioner and ethical hacker based in Karachi, Pakistan. My work centres on **web and network penetration testing**, **vulnerability research**, and **reconnaissance automation**, and I'm expanding into **AI red teaming** and **AI agent security**.
+- **Application Security Research**  
+  Understanding how application architecture, trust boundaries, and interconnected components create opportunities for exploitation.
 
-I build tools and sharpen practical skills through CTFs, labs, and open-source work, with the goal of bridging security theory and real-world practice. I'm always working to understand how systems actually break, and how to defend them.
+## Currently Learning
 
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
+Exploring the intersection of traditional application security and AI security, with a particular interest in understanding how emerging AI systems introduce new attack surfaces.
 
-## 🎯 Focus Areas
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 Web & API Security
-OWASP Top 10, authentication and access-control flaws, injection, and API penetration testing.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛰️ Network & Infrastructure
-Scanning, enumeration, service analysis, and traffic inspection in controlled lab environments.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔬 Vulnerability Research & Exploit Dev
-Studying how vulnerabilities work at a low level, with reverse engineering for deeper understanding.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔍 Recon Automation
-Custom scripts and tooling that make reconnaissance and pentest workflows repeatable.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 AI Red Teaming
-Testing LLMs and chatbots for prompt injection, jailbreaks, and data leakage.
-
-</td>
-<td width="50%" valign="top">
-
-#### ⛓️ Web3 & Agentic Security
-Smart contract security, plus building and securing AI agents so they only do what they are meant to do.
-
-</td>
-</tr>
-</table>
-
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
+Always curious about systems, their weaknesses, and the assumptions that make them vulnerable.
 
 ## 🛠️ Services
 
@@ -79,8 +36,6 @@ Smart contract security, plus building and securing AI agents so they only do wh
 | **AI Red Teaming** | Your AI models and chatbots stress-tested against prompt injection, jailbreaks, and data leakage, so you know how they behave under pressure. |
 | **AI Agent Development** | Custom agents, from single-task assistants (support, FAQ bots) to multi-step agents that work with your tools and data. |
 | **Agentic System Security** | AI agents secured against misuse, unauthorized actions, and manipulation, so your automation stays safe. |
-
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
 
 ## 🚀 Featured Projects
 
