@@ -28,54 +28,6 @@ Exploring the intersection of traditional application security and AI security, 
 
 Always curious about systems, their weaknesses, and the assumptions that make them vulnerable.
 
-## 🛠️ Services
-
-| Service | What you get |
-| --- | --- |
-| **Cybersecurity & Vulnerability Assessment** | Your websites, applications, and systems examined for weaknesses before attackers find them, with a clear report and practical steps to fix each issue. |
-| **AI Red Teaming** | Your AI models and chatbots stress-tested against prompt injection, jailbreaks, and data leakage, so you know how they behave under pressure. |
-| **AI Agent Development** | Custom agents, from single-task assistants (support, FAQ bots) to multi-step agents that work with your tools and data. |
-| **Agentic System Security** | AI agents secured against misuse, unauthorized actions, and manipulation, so your automation stays safe. |
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-[![AEGIS](https://github-readme-stats-fast.vercel.app/api/pin?username=Mahendar-Dev&repo=AEGIS-Serverless-Disaster-Response-System-Using-AWS&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9)](https://github.com/Mahendar-Dev/AEGIS-Serverless-Disaster-Response-System-Using-AWS)
-
-</td>
-<td width="50%" align="center">
-
-[![Sentinel](https://github-readme-stats-fast.vercel.app/api/pin?username=Mahendar-Dev&repo=Sentinel-Network-IDS&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9)](https://github.com/Mahendar-Dev/Sentinel-Network-IDS)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![Attestly](https://github-readme-stats-fast.vercel.app/api/pin?username=Mahendar-Dev&repo=Attestly-Degree-Attestation-Chain&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9)](https://github.com/Mahendar-Dev/Attestly-Degree-Attestation-Chain)
-
-</td>
-<td width="50%" align="center">
-
-[![FireResponse](https://github-readme-stats-fast.vercel.app/api/pin?username=Mahendar-Dev&repo=FireResponse-DAA&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9)](https://github.com/Mahendar-Dev/FireResponse-DAA)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![University DBMS](https://github-readme-stats-fast.vercel.app/api/pin?username=Mahendar-Dev&repo=university-dbms-dsa-project&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9)](https://github.com/Mahendar-Dev/university-dbms-dsa-project)
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
-
 ## 🧰 Tech Stack & Tools
 
 **Languages**
