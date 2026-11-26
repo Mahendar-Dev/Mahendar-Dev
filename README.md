@@ -47,8 +47,6 @@ Always curious about systems, their weaknesses, and the assumptions that make th
 
 [![](https://skillicons.dev/icons?i=aws,docker,linux,git,mysql,vscode&theme=dark)](https://skillicons.dev)
 
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
-
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Mahendar-Dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=ff2e2e&text_color=c9d1d9&count_private=true)](https://github.com/Mahendar-Dev)
