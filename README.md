@@ -58,8 +58,6 @@ Always curious about systems, their weaknesses, and the assumptions that make th
 
 </div>
 
-![divider](https://raw.githubusercontent.com/Mahendar-Dev/Mahendar-Dev/main/assets/divider.svg)
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/1mahendardev)
